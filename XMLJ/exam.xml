@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<exams>
+
+  <exam id="1">
+
+    <name>Roywon</name>
+
+    <state>california</state>
+
+    <city>Sanfrancisco</city>
+
+  </exam>
+
+  <exam id="2">
+
+    <name>arlan</name>
+
+    <state>california</state>
+
+    <city>sanjose</city>
+
+  </exam>
+
+</exams>
+
+
+
